@@ -1,11 +1,10 @@
 *{
+    height: 4000px;
     margin: 0;
     padding: 0;
 }
 
 body{
-    /* background-image: url('bg.jpeg'); 
-    background-size: cover; */
     overflow: hidden;
     height: 100vh;
 }
